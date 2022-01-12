@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Лист персонажа.md",
-            "mode": "preview",
+            "file": "classes/Плут.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce165b50cb0b143c",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лист персонажа.md",
+                "file": "classes/Плут.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +98,15 @@
   },
   "active": "f049942b9b609661",
   "lastOpenFiles": [
-    "Лист персонажа.md"
+    "classes/Плут.md",
+    "classes/Жрец.md",
+    "DnD/Боги.md",
+    "Классы.md",
+    "classes/Паладин.md",
+    "classes/Монах.md",
+    "classes/Маг.md",
+    "classes/Друид.md",
+    "classes/Варвар.md",
+    "classes/Воин.md"
   ]
 }
