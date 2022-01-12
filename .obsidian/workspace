@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "0b35722d59626cc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f049942b9b609661",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Лист персонажа.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95f2487f79d729b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c063bd48dcc654c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2af45839a256097",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fe93e3c12d51368",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ce165b50cb0b143c",
+    "type": "split",
+    "children": [
+      {
+        "id": "96932703505bf14a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40550f01d53b7fe6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Лист персонажа.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a43c01b9fb67de18",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f049942b9b609661",
+  "lastOpenFiles": [
+    "Лист персонажа.md"
+  ]
+}
