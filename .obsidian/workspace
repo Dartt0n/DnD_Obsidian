@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "f049942b9b609661",
+        "id": "f9885b6567cdc96d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "classes/Плут.md",
+            "file": "Лист персонажа.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "6743f075f5975efc"
+      },
+      {
+        "id": "a6023d1e8c564914",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Лист персонажа.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "6743f075f5975efc"
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/Плут.md",
+                "file": "Лист персонажа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,10 +95,10 @@
             }
           },
           {
-            "id": "a43c01b9fb67de18",
+            "id": "347b4548ce1c8830",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -93,20 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f049942b9b609661",
+  "active": "f9885b6567cdc96d",
   "lastOpenFiles": [
+    "Лист персонажа.md",
+    "Классы.md",
+    "classes/Бард.md",
+    "classes/Паладин.md",
+    "classes/Следопыт.md",
     "classes/Плут.md",
     "classes/Жрец.md",
     "DnD/Боги.md",
-    "Классы.md",
-    "classes/Паладин.md",
     "classes/Монах.md",
-    "classes/Маг.md",
-    "classes/Друид.md",
-    "classes/Варвар.md",
-    "classes/Воин.md"
+    "classes/Маг.md"
   ]
 }
